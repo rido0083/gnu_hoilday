@@ -4,7 +4,7 @@
 
 <br>
 <br>
-<a href="https://www.data.go.kr/dataset/15012690/openapi.do" target="_blank">data.go.kr/dataset/15012690/openapi.do</a>
+<a href="https://www.data.go.kr/dataset/15012690/openapi.do" target="_top">data.go.kr/dataset/15012690/openapi.do</a>
 
 공공데이터에 가입하시고 위의 링크로 가신 후 해당 api를 신청하신후
 api키를 받아서 사용하시면 됩니다.
