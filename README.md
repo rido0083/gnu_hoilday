@@ -62,4 +62,4 @@ http://본인의홈페이지/api/holiday.php?date=2019-05-05
 <br>
 <a href="http://gnurido.iwinv.net/api/holiday.php?date=2019-05-05" target="_blank">gnurido.iwinv.net/api/holiday.php?date=2019-05-05</a>
 <br><br><br>
-제작자는 그누보드(http://sir.kr)에서 서식중입니다.
+제작자는 <a href="http://sir.kr" target="_blank">그누보드</a>에서 서식중입니다.
