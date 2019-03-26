@@ -4,7 +4,7 @@
 
 <br>
 <br>
-<a href="https://www.data.go.kr/dataset/15012690/openapi.do" target="_blank">https://www.data.go.kr/dataset/15012690/openapi.do</a>
+<a href="https://www.data.go.kr/dataset/15012690/openapi.do" target="_blank">data.go.kr/dataset/15012690/openapi.do</a>
 
 공공데이터에 가입하시고 위의 링크로 가신 후 해당 api를 신청하신후
 api키를 받아서 사용하시면 됩니다.
@@ -56,10 +56,10 @@ http://본인의홈페이지/api/holiday.php?date=2019-05-05
 제작자의 사정에 의해 해당 셈플은 링크가 유효하지 않을 수 있습니다.
 
 <br><br>
-<a href="http://gnurido.iwinv.net/api/holiday.php?date=2019" target="_blank">http://gnurido.iwinv.net/api/holiday.php?date=2019</a>
+<a href="http://gnurido.iwinv.net/api/holiday.php?date=2019" target="_blank">gnurido.iwinv.net/api/holiday.php?date=2019</a>
 <br>
-<a href="http://gnurido.iwinv.net/api/holiday.php?date=2019-05" target="_blank">http://gnurido.iwinv.net/api/holiday.php?date=2019-05</a>
+<a href="http://gnurido.iwinv.net/api/holiday.php?date=2019-05" target="_blank">gnurido.iwinv.net/api/holiday.php?date=2019-05</a>
 <br>
-<a href="http://gnurido.iwinv.net/api/holiday.php?date=2019-05-05" target="_blank">http://gnurido.iwinv.net/api/holiday.php?date=2019-05-05</a>
+<a href="http://gnurido.iwinv.net/api/holiday.php?date=2019-05-05" target="_blank">gnurido.iwinv.net/api/holiday.php?date=2019-05-05</a>
 <br><br><br>
 제작자는 그누보드(http://sir.kr)에서 서식중입니다.
