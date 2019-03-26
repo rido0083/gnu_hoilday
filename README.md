@@ -49,3 +49,17 @@ http://본인의홈페이지/api/holiday.php?date=2019-05-05
 <br>
 해당 년도의 url을 입력시에 기존 데이터에 없던 특일을 추가합니다.
 현재 작성일(2019-03-26) 기준으로 2020년 데이터는 제공되고 있지 않는거 같습니다.
+
+<br><br>
+아래는 셈플url입니다. 
+<br>
+제작자의 사정에 의해 해당 셈플은 링크가 유효하지 않을 수 있습니다.
+
+<br><br>
+http://gnurido.iwinv.net/api/holiday.php?date=2019
+<br>
+http://gnurido.iwinv.net/api/holiday.php?date=2019-05
+<br>
+http://gnurido.iwinv.net/api/holiday.php?date=2019-05-05
+<br><br><br>
+제작자는 그누보드(http://sir.kr)에서 서식중입니다.
